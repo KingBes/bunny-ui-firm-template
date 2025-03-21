@@ -10,4 +10,4 @@
 
 在线：http://kingbes.kesug.com/
 
-![首页](/images/index.jpeg)
+![首页](images/index.jpeg)
